@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.value-container {
+  list-style-type: none;
+}
+
+button {
+  width: 150px;
+  background-color: #382f5a;
+  color: #c4c4c4;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 10px;
+  outline: none;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
